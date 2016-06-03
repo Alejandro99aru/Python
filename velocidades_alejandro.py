@@ -51,7 +51,7 @@ elif (pregunta == "tiempo" or pregunta == "Tiempo"):
 
 
 print('''
-Alejandro Rodríguez Usón''')
+Alejandro Rodríguez Usón, Twitter:@alejandro99aru''')
     
 
 
