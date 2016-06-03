@@ -138,5 +138,5 @@ else:
 
 
 print('''
-By: Alejandro Rodriguez Uson, 1º Bachillerato C
+By: Alejandro Rodriguez Uson, 1º Bachillerato C, Twitter: @Alejandro99aru
 ''')
