@@ -48,6 +48,6 @@ def nota_media(basicas, no_basicas, porcentaje_basicas, porcentaje_no_basicas):
 
 print(nota_media(notas_basicas, notas_no_basicas, porcentaje_basicos, porcentaje_no_basicos))
 
-
+print('By: Alejandro Rodríguez Uson, Twitter:@alejandro99aru')
 
 
